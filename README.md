@@ -1,28 +1,56 @@
- Cybersecurity in Ports Challenge 🚢
+##FERM Cybersecurity in Ports Challenge
 
-Overview
+#📌 Overview
 
-This repository contains my presentation and proposal for Challenge A – FERM Cybersecurity in Ports, dated 5 October 2026.
+This project is part of the practical challenge phase of the International Cybersecurity and Digital Security Summer School (IDCSS26), a program featuring expert-led lectures and hands-on cybersecurity challenges.
 
-The challenge focuses on strengthening cyber resilience across global seaports, which are critical infrastructure supporting international trade and supply chains.
+The challenge, FERM Port Cyber Resilience, focuses on strengthening cybersecurity resilience across global seaports through international collaboration, policy alignment, and emerging technologies.
 
-Challenge Focus
+#Objectives
 
-The proposal addresses key areas of global port cybersecurity:
+* Strengthen cybersecurity resilience across global seaports
+* Explore international policy and governance frameworks
+* Improve cross-border threat intelligence sharing and incident response coordination
+* Identify opportunities for AI-driven threat detection and anomaly identification
+* Promote scalable cybersecurity practices for ports with different levels of maturity
 
-* Policy and Governance: International coordination, public-private partnerships, and sustainable funding.
-* Legal and Regulatory Alignment: Cross-border information sharing and alignment of cybersecurity principles.
-* Technology and AI: AI-driven threat detection, anomaly identification, coordinated incident response, and secure information sharing.
+#Key Areas
 
-Proposed Solution
+* Policy and Governance
+* Legal and Regulatory Alignment
+* AI-Driven Threat Detection
+* Incident Response Coordination
+* Secure Information Sharing
+* Supply Chain Cybersecurity
 
-See the presentation included in this repository for the proposed approach, recommendations, and supporting analysis.
+#Proposed Approach
 
-Files
+* Encourage collaboration between governments, port authorities, and private-sector stakeholders
+* Explore alignment of international cybersecurity guidelines and regulations
+* Leverage AI to detect suspicious activities and anomalies across port systems
+* Support secure threat intelligence sharing between ports
+* Promote scalable and sustainable cybersecurity practices
 
-* FERM_Port_Cybersecurity_Proposal.pptx — Presentation slides.
-* FERM_Port_Cybersecurity_Proposal.pdf — PDF version, if included.
+#Technologies and Concepts
 
-Disclaimer
+* Artificial Intelligence (AI)
+* Threat Intelligence Sharing
+* Security Monitoring and Anomaly Detection
+* Incident Response
+* Cyber Resilience
+* Critical Infrastructure Protection
 
-This repository documents a challenge proposal. The content should not be interpreted as an officially endorsed solution by FERM or the challenge organizers.
+#Program Context
+
+* Program: International Cybersecurity and Digital Security Summer School (IDCSS26)
+* Practical Phase: September 22 – October 9, 2026
+* Challenge: FERM Port Cyber Resilience
+* Focus: Global seaport cybersecurity and critical infrastructure resilience
+
+#What I Learned
+
+* Cybersecurity challenges affecting maritime and port infrastructure
+* The importance of international cooperation in cyber resilience
+* The role of governance and regulatory alignment in cybersecurity
+* Applications of AI in threat detection and incident response
+* The importance of securing interconnected supply chains
